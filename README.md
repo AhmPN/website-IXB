@@ -197,6 +197,8 @@
         <h2>Galeri Foto & Kenangan</h2>
         <img src="fotoulangan.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto ulangan hari ke 2 😍</p>
+        <img src="ibul.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 foto bersama ibu Laila😍</p>
       `
     };
 
