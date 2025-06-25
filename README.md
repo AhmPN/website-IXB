@@ -182,7 +182,7 @@
           <tr><td>Rabu</td><td>Riko, Mira, Dani</td></tr>
           <tr><td>Kamis</td><td>Ayu, Andre, Nova</td></tr>
           <tr><td>Jumat</td><td>Winda, Rizky, Ilham</td></tr>
-          <tr><td>Sabtu</td><Putra, Anita, Dwi, Via</td></tr>
+          <tr><td>Sabtu</td><td>Putra, Anita, Dwi, Via</td></tr>
         </table>
       `,
       pr: `
