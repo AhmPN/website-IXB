@@ -197,7 +197,7 @@
         <h2>Galeri Foto & Kenangan</h2>
         <img src="fotoulangan.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto ulangan hari ke 2 😍</p>
-        <img src="persiapanupcara.jpg" style="width:100%; border-radius:10px;">
+        <img src="persiapanupacara.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto persiapan upacara 😍</p>
         <img src="upacara1.jpg" style="width:100%; border-radius:10px;">
         <p>📸 fotbar setelah upacara 😍</p>
