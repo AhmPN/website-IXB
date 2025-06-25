@@ -188,9 +188,9 @@
       pr: `
         <h2>Tugas / PR Terbaru</h2>
         <ul>
-          <li>Matematika: Halaman 60, no. 1-5 (Kumpul Kamis)</li>
-          <li>IPA: Buat laporan praktikum (Kumpul Senin depan)</li>
-          <li>PKN: Poster Anti Perundungan</li>
+          <li>Matematika: segera hadir</li>
+          <li>IPA: segera hadir</li>
+          <li>PKN: segera hadir</li>
         </ul>
       `,
       galeri: `
@@ -212,7 +212,7 @@
         <img src="kemah3.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto bapak" ngerumpi😍</p>
         <img src="kemah4.jpg" style="width:100%; border-radius:10px;">
-        <p>📸 foto cewek nya makan, cowok nya masak 😍</p>
+        <p>📸  cewek nya makan, cowok nya yang masak 😅</p>
         <img src="tarian1.jpg" style="width:100%; border-radius:10px;">
         <p>📸 fotbar setelah tampil menari 😍</p>
         <img src="ibul.jpg" style="width:100%; border-radius:10px;">
