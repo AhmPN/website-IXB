@@ -177,7 +177,7 @@
         <h2>Jadwal Piket Mingguan</h2>
         <table>
           <tr><th>Hari</th><th>Nama Petugas</th></tr>
-          <tr><td>Senin</td><td>Segera Hadir></tr>
+          <tr><td>Senin</td><td>Segera Hadir</td></tr>
           <tr><td>Selasa</td><td>Segera Hadir</td></tr>
           <tr><td>Rabu</td><td>Segera Hadir</td></tr>
           <tr><td>Kamis</td><td>Segera Hadir</td></tr>
