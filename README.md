@@ -165,11 +165,11 @@
         <h2>Jadwal Pelajaran Kelas 9B</h2>
         <table>
           <tr><th>Hari</th><th>Mata Pelajaran</th></tr>
-          <tr><td>Senin</td><td>Matematika, IPA, PKN</td></tr>
-          <tr><td>Selasa</td><td>Bahasa Indonesia, IPS, PJOK</td></tr>
-          <tr><td>Rabu</td><td>Bahasa Inggris, Prakarya, MTK</td></tr>
-          <tr><td>Kamis</td><td>IPA, Agama, Bahasa Indonesia</td></tr>
-          <tr><td>Jumat</td><td>Seni Budaya, Bahasa Daerah</td></tr>
+          <tr><td>Senin</td><td>Segera Hadir</td></tr>
+          <tr><td>Selasa</td><td>Segera Hadir</td></tr>
+          <tr><td>Rabu</td><td>Segera Hadir</td></tr>
+          <tr><td>Kamis</td><td>Segera Hadir</td></tr>
+          <tr><td>Jumat</td><td>Segera Hadir</td></tr>
           <tr><td>Sabtu</td><td>P5,P5,P5</td></tr>
         </table>
       `,
@@ -177,12 +177,12 @@
         <h2>Jadwal Piket Mingguan</h2>
         <table>
           <tr><th>Hari</th><th>Nama Petugas</th></tr>
-          <tr><td>Senin</td><td>Putra, Budi, Rani</td></tr>
-          <tr><td>Selasa</td><td>Dinda, Fajar, Lala</td></tr>
-          <tr><td>Rabu</td><td>Riko, Mira, Dani</td></tr>
-          <tr><td>Kamis</td><td>Ayu, Andre, Nova</td></tr>
-          <tr><td>Jumat</td><td>Winda, Rizky, Ilham</td></tr>
-          <tr><td>Sabtu</td><td>Putra, Anita, Dwi, Via</td></tr>
+          <tr><td>Senin</td><td>Segera Hadir></tr>
+          <tr><td>Selasa</td><td>Segera Hadir</td></tr>
+          <tr><td>Rabu</td><td>Segera Hadir</td></tr>
+          <tr><td>Kamis</td><td>Segera Hadir</td></tr>
+          <tr><td>Jumat</td><td>Segera Hadir</td></tr>
+          <tr><td>Sabtu</td><td>Segera Hadir</td></tr>
         </table>
       `,
       pr: `
