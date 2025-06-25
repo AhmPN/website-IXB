@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -88,8 +88,8 @@
 <footer>
   <p>Website Kelas 9B | Designed by: APutraN</p>
   <p>
-    <a href="https://instagram.com/namaakun" target="_blank">Instagram</a> |
-    <a href="https://tiktok.com/@namaakun" target="_blank">TikTok</a>
+    <a href="https://www.instagram.com/onebradeclass?igsh=dmlydWc1aG50aWdy" target="_blank">Instagram</a> |
+    <a href="https://wwww.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank">TikTok</a>
   </p>
 </footer>
 
@@ -99,47 +99,49 @@
       struktur: `
         <h2>Struktur Kelas 9B</h2>
         <ul>
-          <li>Ketua Kelas: Putra</li>
-          <li>Wakil Ketua: Rani</li>
-          <li>Sekretaris: Budi</li>
-          <li>Bendahara: Sinta</li>
+          <li>Ketua Kelas: Akan Hadir</li>
+          <li>Wakil Ketua: Akan Hadir</li>
+          <li>Sekretaris 1: Akan Hadir</li>
+          <li>Sekretaris 2: Akan Hadir</li>
+          <li>Bendahara 1: Akan Hadir</li>
+          <li>Bendahara 2: Akan Hadir</li>
         </ul>
       `,
       anggota: `
         <h2>Daftar Anggota Siswa Kelas 9B (32 Siswa)</h2>
         <ol>
-          <li>Putra</li>
-          <li>Rani</li>
-          <li>Budi</li>
-          <li>Sinta</li>
-          <li>Dinda</li>
-          <li>Fajar</li>
-          <li>Lala</li>
-          <li>Riko</li>
-          <li>Mira</li>
-          <li>Dani</li>
-          <li>Andre</li>
-          <li>Ayu</li>
-          <li>Nia</li>
-          <li>Fani</li>
-          <li>Raka</li>
-          <li>Nova</li>
-          <li>Winda</li>
-          <li>Ilham</li>
-          <li>Rizky</li>
-          <li>Alfa</li>
-          <li>Salsa</li>
-          <li>Nabil</li>
-          <li>Iqbal</li>
-          <li>Aisyah</li>
-          <li>Adnan</li>
-          <li>Yuni</li>
-          <li>Ara</li>
-          <li>Gilang</li>
-          <li>Zahra</li>
-          <li>Reza</li>
-          <li>Hana</li>
-          <li>Bayu</li>
+          <li>Adelia Ainun Zakiya</li>
+          <li>Adinda Selmi Yusfita</li>
+          <li>Ahmad Putra Nurrohim</li>
+          <li>Alisia Jastin</li>
+          <li>Amelia Nur Rahmadani</li>
+          <li>Anita Sulfania</li>
+          <li>Cahya Nengrum Aulia Ulfah</li>
+          <li>Choliv Fuadiya</li>
+          <li>Dafi idriansyah</li>
+          <li>Devi Nur Maulidda</li>
+          <li>Dewi Audray Agdiningviar</li>
+          <li>Dimas Surya Irawan</li>
+          <li>Dira Hadi Erwanto</li>
+          <li>Dwi Irji Febiana</li>
+          <li>Edo Hariyadi</li>
+          <li>Erwin Alfiromdoni</li>
+          <li>Imana Pungky Mavano</li>
+          <li>Micko Maulana</li>
+          <li>Muhamad Azriel Ardianta</li>
+          <li>Muhamad Fahmy Ferdiansyah</li>
+          <li>Muhamad Farras Ahsanul Huda</li>
+          <li>Muhammad Arjuna Muarif Salam</li>
+          <li>Muhammad Rishad Tabatala Arsodiq</li>
+          <li>Mutiara Dwi Febrianti</li>
+          <li>Nabila Azzahra</li>
+          <li>Nur Sabrina</li>
+          <li>Putri Nur Ainiyyah Zahraa</li>
+          <li>Riyo Ramadhani</li>
+          <li>Silda Simatus Zahro</li>
+          <li>Sintia Nabila</li>
+          <li>Yogik Aditiyono</li>
+          <li>Zaky Sofyan</li>
         </ol>
       `,
       tata: `
@@ -156,7 +158,7 @@
         <ul>
           <li>Buang sampah pada tempatnya.</li>
           <li>Dilarang makan/minum di dalam kelas saat pelajaran berlangsung.</li>
-          <li>Petugas piket wajib menyapu dan merapikan kelas.</li>
+          <li>Petugas piket wajib menyapu dan merapikan kelas setiap pagi dan sebelum pulang sekolah.</li>
         </ul>
       `,
       pelajaran: `
@@ -168,6 +170,7 @@
           <tr><td>Rabu</td><td>Bahasa Inggris, Prakarya, MTK</td></tr>
           <tr><td>Kamis</td><td>IPA, Agama, Bahasa Indonesia</td></tr>
           <tr><td>Jumat</td><td>Seni Budaya, Bahasa Daerah</td></tr>
+          <tr>td>Sabtu</td><P5,P5,P5</td></tr>
         </table>
       `,
       piket: `
@@ -179,6 +182,7 @@
           <tr><td>Rabu</td><td>Riko, Mira, Dani</td></tr>
           <tr><td>Kamis</td><td>Ayu, Andre, Nova</td></tr>
           <tr><td>Jumat</td><td>Winda, Rizky, Ilham</td></tr>
+          <tr><td>Sabtu</td><Putra, Anita, Dwi, Via</td></tr>
         </table>
       `,
       pr: `
