@@ -197,8 +197,26 @@
         <h2>Galeri Foto & Kenangan</h2>
         <img src="fotoulangan.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto ulangan hari ke 2 😍</p>
+        <img src="persiapanupcara.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 foto persiapan upacara 😍</p>
+        <img src="upacara1.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 fotbar setelah upacara 😍</p>
+        <img src="upacara2.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 fotbar setelah upacara 😍</p>
+        <img src="upacara3.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 fotbar setelah upacara 😍</p>
+        <img src="kemah1.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 fotbar cewek cantik 8b 😍</p>
+        <img src="kemah2.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 Arjuna kecapean makan 🤣🤣</p>
+        <img src="kemah3.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 foto bapak" ngerumpi😍</p>
+        <img src="kemah4.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 foto cewek nya makan, cowok nya masak 😍</p>
+        <img src="tarian1.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 fotbar setelah tampil menari 😍</p>
         <img src="ibul.jpg" style="width:100%; border-radius:10px;">
-        <p>📸 foto bersama ibu Laila😍</p>
+        <p>📸 foto bersama Ibu Laila 😍😍</p>
       `
     };
 
