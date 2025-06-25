@@ -170,7 +170,7 @@
           <tr><td>Rabu</td><td>Bahasa Inggris, Prakarya, MTK</td></tr>
           <tr><td>Kamis</td><td>IPA, Agama, Bahasa Indonesia</td></tr>
           <tr><td>Jumat</td><td>Seni Budaya, Bahasa Daerah</td></tr>
-          <tr>td>Sabtu</td><P5,P5,P5</td></tr>
+          <tr><td>Sabtu</td><td>P5,P5,P5</td></tr>
         </table>
       `,
       piket: `
