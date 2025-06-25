@@ -195,8 +195,8 @@
       `,
       galeri: `
         <h2>Galeri Foto & Kenangan</h2>
-        <img src="https://via.placeholder.com/500x300?text=Perpisahan+Kelas" style="width:100%; border-radius:10px;">
-        <p>📸 Acara perpisahan semester 2 yang penuh kenangan 😍</p>
+        <img src="fotoulangan.jpg" style="width:100%; border-radius:10px;">
+        <p>📸 foto ulangan hari ke 2 😍</p>
       `
     };
 
