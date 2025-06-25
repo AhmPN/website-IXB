@@ -88,8 +88,8 @@
 <footer>
   <p>Website Kelas 9B | Designed by: APutraN</p>
   <p>
-    <a href="https://www.instagram.com/onebradeclass?igsh=dmlydWc1aG50aWdy" target="_blank">Instagram</a> |
-    <a href="https://wwww.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank">TikTok</a>
+    <a href="https://www.instagram.com/onebraderclass?igsh=dmIydWc1aG50aWdy" target="_blank">Instagram</a> |
+    <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank">TikTok</a>
   </p>
 </footer>
 
