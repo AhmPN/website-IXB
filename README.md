@@ -110,7 +110,7 @@
       anggota: `
         <h2>Daftar Anggota Siswa Kelas 9B (32 Siswa)</h2>
         <ol>
-          <li>Adelia Ainun Zakiya</li>
+          <li>Adelia Ainun Zakia</li>
           <li>Adinda Selmi Yusfita</li>
           <li>Ahmad Putra Nurrohim</li>
           <li>Alisia Jastin</li>
