@@ -217,6 +217,7 @@
         <p>📸 fotbar setelah tampil menari 😍</p>
         <img src="ibul.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto bersama Ibu Laila 😍😍</p>
+        
       `
     };
 
