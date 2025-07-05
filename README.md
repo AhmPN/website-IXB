@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Website Kelas 9B</title>
+  <title>Website Kelas IX-B</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -66,7 +66,7 @@
 
 <header>
   <h1>SMPN 1 PANGKALAN LADA</h1>
-  <h2>Website Kelas IXB (9b)</h2>
+  <h2>Website Kelas IXB</h2>
 </header>
 
 <nav>
@@ -81,12 +81,12 @@
 </nav>
 
 <div id="content">
-  <h2>Selamat datang di Website Kelas 9B!</h2>
+  <h2>Selamat datang di Website Kelas IX-B!</h2>
   <p>Klik di atas untuk melihat informasi penting dan seru seputar kelas kita 😊</p>
 </div>
 
 <footer>
-  <p>Website Kelas 9B | Designed by: APutraN</p>
+  <p>Website Kelas IX-B | Designed by: APutraN</p>
   <p>
     <a href="https://www.instagram.com/onebraderclass?igsh=dmIydWc1aG50aWdy" target="_blank">Instagram</a> |
     <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank">TikTok</a>
@@ -97,9 +97,9 @@
   function showContent(menu) {
     const content = {
       struktur: `
-        <h2>Struktur Kelas 9B</h2>
+        <h2>Struktur Kelas IX-B</h2>
         <ul>
-          <h3>Wlali Kelas : akan hadir</h3>
+          <h3>Wali Kelas : akan hadir</h3>
           <li>Ketua Kelas: Akan Hadir</li>
           <li>Wakil Ketua: Akan Hadir</li>
           <li>Sekretaris 1: Akan Hadir</li>
@@ -109,7 +109,7 @@
         </ul>
       `,
       anggota: `
-        <h2>Daftar Anggota Siswa Kelas 9B (32 Siswa)</h2>
+        <h2>Daftar Anggota Siswa Kelas IX-B (32 Siswa)</h2>
         <ol>
           <li>Adelia Ainun Zakia</li>
           <li>Adinda Selmi Yusfita</li>
@@ -165,7 +165,7 @@
         </ul>
       `,
       pelajaran: `
-        <h2>Jadwal Pelajaran Kelas 9B</h2>
+        <h2>Jadwal Pelajaran Kelas IX-B</h2>
         <table>
           <tr><th>Hari</th><th>Mata Pelajaran</th></tr>
           <tr><td>Senin</td><td>Segera Hadir</td></tr>
@@ -177,7 +177,7 @@
         </table>
       `,
       piket: `
-        <h2>Jadwal Piket Mingguan</h2>
+        <h2>Jadwal Piket Krlas IX-B</h2>
         <table>
           <tr><th>Hari</th><th>Nama Petugas</th></tr>
           <tr><td>Senin</td><td>Segera Hadir</td></tr>
