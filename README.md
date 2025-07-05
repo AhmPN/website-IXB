@@ -210,7 +210,7 @@
         <img src="kemah2.jpg" style="width:100%; border-radius:10px;">
         <p>📸 Arjuna kecapean makan 🤣🤣</p>
         <img src="kemah3.jpg" style="width:100%; border-radius:10px;">
-        <p>📸 foto bapak" ngerumpi😍</p>
+        <p>📸 foto laki" ngerumpi😍</p>
         <img src="kemah4.jpg" style="width:100%; border-radius:10px;">
         <p>📸  cewek nya makan, cowok nya yang masak 😅</p>
         <img src="tarian1.jpg" style="width:100%; border-radius:10px;">
