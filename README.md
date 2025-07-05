@@ -66,13 +66,13 @@
 
 <header>
   <h1>SMPN 1 PANGKALAN LADA</h1>
-  <h2>Website Kelas 9B</h2>
+  <h2>Website Kelas IXB (9b)</h2>
 </header>
 
 <nav>
   <button class="menu-btn" onclick="showContent('struktur')">Struktur Kelas</button>
   <button class="menu-btn" onclick="showContent('anggota')">Anggota Siswa</button>
-  <button class="menu-btn" onclick="showContent('tata')">Tata Tertib</button>
+  <button class="menu-btn" onclick="showContent('tata')">Tata Tertib Kelas</button>
   <button class="menu-btn" onclick="showContent('kebersihan')">Peraturan Kebersihan</button>
   <button class="menu-btn" onclick="showContent('pelajaran')">Jadwal Pelajaran</button>
   <button class="menu-btn" onclick="showContent('piket')">Jadwal Piket</button>
@@ -82,7 +82,7 @@
 
 <div id="content">
   <h2>Selamat datang di Website Kelas 9B!</h2>
-  <p>Klik menu di atas untuk melihat informasi penting dan seru seputar kelas kita 😊</p>
+  <p>Klik di atas untuk melihat informasi penting dan seru seputar kelas kita 😊</p>
 </div>
 
 <footer>
@@ -149,17 +149,19 @@
         <h2>Tata Tertib Kelas</h2>
         <ol>
           <li>Datang tepat waktu sebelum jam pelajaran dimulai.</li>
+          <li>Siswa wajib mengerjakan tugas yang diberikan kepada guru.</li>
           <li>Berpakaian rapi dan sesuai peraturan sekolah.</li>
           <li>Berperilaku sopan terhadap guru dan teman.</li>
-          <li>Menjaga kebersihan dan kerapihan kelas.</li>
+          <li>dilarang makan/minum di dalam kelas saat pelajaran berlangsung.</li>
         </ol>
       `,
       kebersihan: `
         <h2>Peraturan Kebersihan Kelas</h2>
         <ul>
           <li>Buang sampah pada tempatnya.</li>
-          <li>Dilarang makan/minum di dalam kelas saat pelajaran berlangsung.</li>
+          <li>tidak mengotori kelas</li>
           <li>Petugas piket wajib menyapu dan merapikan kelas setiap pagi dan sebelum pulang sekolah.</li>
+          <li>Petugas piket wajib lapor absen sebelum mulai pelajaran.</li>
         </ul>
       `,
       pelajaran: `
@@ -201,7 +203,7 @@
         <img src="persiapanupacara.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto persiapan upacara 😍</p>
         <img src="upacara1.jpg" style="width:100%; border-radius:10px;">
-        <p>📸 fotbar setelah upacara 😍</p>
+        <p>📸 fotbar setelah upacara bersama Ibu Yuni 😍</p>
         <img src="upacara2.jpg" style="width:100%; border-radius:10px;">
         <p>📸 fotbar setelah upacara 😍</p>
         <img src="upacara3.jpg" style="width:100%; border-radius:10px;">
