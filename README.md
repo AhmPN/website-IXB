@@ -119,7 +119,7 @@
           <li>Anita Sulfania</li>
           <li>Cahya Nengrum Aulia Ulfah</li>
           <li>Choliv Fuadiya</li>
-          <li>Dafi idriansyah</li>
+          <li>Dafi Idriansyah</li>
           <li>Devi Nur Maulidda</li>
           <li>Dewi Audray Agdiningviar</li>
           <li>Dimas Surya Irawan</li>
