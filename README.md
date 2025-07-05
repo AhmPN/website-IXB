@@ -177,7 +177,7 @@
         </table>
       `,
       piket: `
-        <h2>Jadwal Piket Krlas IX-B</h2>
+        <h2>Jadwal Piket Kelas IX-B</h2>
         <table>
           <tr><th>Hari</th><th>Nama Petugas</th></tr>
           <tr><td>Senin</td><td>Segera Hadir</td></tr>
