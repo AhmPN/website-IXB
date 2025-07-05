@@ -99,6 +99,7 @@
       struktur: `
         <h2>Struktur Kelas 9B</h2>
         <ul>
+          <h3>Wlali Kelas : akan hadir</h3>
           <li>Ketua Kelas: Akan Hadir</li>
           <li>Wakil Ketua: Akan Hadir</li>
           <li>Sekretaris 1: Akan Hadir</li>
