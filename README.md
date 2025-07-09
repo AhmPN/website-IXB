@@ -86,7 +86,7 @@
 </div>
 
 <footer>
-  <p>Website Kelas IX-B | Designed by: APutraN</p>
+  <p>Website Kelas IXB | Designed by: APutraN</p>
   <p>
     <a href="https://www.instagram.com/onebraderclass?igsh=dmIydWc1aG50aWdy" target="_blank">Instagram</a> |
     <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank">TikTok</a>
@@ -188,12 +188,12 @@
         <h2>Jadwal Piket Kelas IX-B</h2>
         <table>
           <tr><th>Hari</th><th>Nama Petugas</th></tr>
-          <tr><td>Senin</td><td>Segera Hadir</td></tr>
-          <tr><td>Selasa</td><td>Segera Hadir</td></tr>
-          <tr><td>Rabu</td><td>Segera Hadir</td></tr>
-          <tr><td>Kamis</td><td>Segera Hadir</td></tr>
-          <tr><td>Jumat</td><td>Segera Hadir</td></tr>
-          <tr><td>Sabtu</td><td>Segera Hadir</td></tr>
+          <tr><td>Senin</td><td>Nabila, Silda, Adelia, Micko, Fahmi, Rishad</td></tr>
+          <tr><td>Selasa</td><td>Sabrina, Sintia, Cahya, Putra, Dafi</td></tr>
+          <tr><td>Rabu</td><td>Anitaa, Dwi Irji, Mutiara, Azriel, Farras</td></tr>
+          <tr><td>Kamis</td><td>Jastin, Zahraa, Dira, Pungky, Erwin</td></tr>
+          <tr><td>Jumat</td><td>Devi, Amelia, Arjuna, Dimas, Riyo, Zaky</td></tr>
+          <tr><td>Sabtu</td><td>Via, Choliv, Adinda, Edo, Yogik</td></tr>
         </table>
       `,
       pr: `
