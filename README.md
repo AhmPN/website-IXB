@@ -99,21 +99,21 @@
       struktur: `
         <h2>Struktur Kelas IX-B</h2>
         <ul>
-          <h3>Wali Kelas : akan hadir</h3>
+          <h3>Wali Kelas : Musringatun,S.Pd.I.</h3>
           <li>Ketua Kelas: Ahmad Putra Nurrohim</li>
           <li>Wakil Ketua: Zaky Sofyan</li>
-          <li>Sekretaris 1: Amelia Nur Rahmadani</li>
-          <li>Sekretaris 2: Adelia Ainun Zakia</li>
-          <li>Bendahara 1: Devi Nur Maulidda</li>
-          <li>Bendahara 2: Dewi Audray Agdiningviar</li>
-          <li>Seksi Kerohanian 1: Nabila Azzahra</Li>
-          <li>Seksi Kerohanian 2: Dira Hadi Erwanto</li>
-          <li>Seksi Keamanan 1: Muhamad Azriel Ardianta</li>
-          <li>Seksi Keamanan 2: Yogik Aditiyono</li>
-          <li>Seksi Kebersihan 1: Dafi Idriansyah</li>
-          <li>Seksi Kebersihan 2: Muhamad Farras Ahsanul Huda</li>
-          <li>Seksi Kesehatan 1: Muhammad Rishad Tabatala Arsodiq</li>
-          <li>Seksi Kesehatan 2: Riyo Rahmadhani</li>
+          <li>Sekretaris 1: Amelia Nur R</li>
+          <li>Sekretaris 2: Adelia Ainun Z</li>
+          <li>Bendahara 1: Devi Nur M</li>
+          <li>Bendahara 2: Dewi Audray A</li>
+          <li>Seksi Kerohanian 1: Nabila</Li>
+          <li>Seksi Kerohanian 2: Dira</li>
+          <li>Seksi Keamanan 1: Azriel</li>
+          <li>Seksi Keamanan 2: Yogik</li>
+          <li>Seksi Kebersihan 1: Dafi</li>
+          <li>Seksi Kebersihan 2: Farras</li>
+          <li>Seksi Kesehatan 1: Rishad</li>
+          <li>Seksi Kesehatan 2: Riyo</li>
         </ul>
       `,
       anggota: `
