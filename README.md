@@ -199,9 +199,7 @@
       pr: `
         <h2>Tugas / PR Terbaru</h2>
         <ul>
-          <li>Matematika: segera hadir</li>
-          <li>IPA: segera hadir</li>
-          <li>PKN: segera hadir</li>
+          <h3>Tidak ada tugas</h3>
         </ul>
       `,
       galeri: `
@@ -219,7 +217,7 @@
         <img src="kemah1.jpg" style="width:100%; border-radius:10px;">
         <p>📸 fotbar cewek cantik 8b 😍</p>
         <img src="kemah2.jpg" style="width:100%; border-radius:10px;">
-        <p>📸 Arjuna kecapean makan 🤣🤣</p>
+        <p>📸 🤣🤣</p>
         <img src="kemah3.jpg" style="width:100%; border-radius:10px;">
         <p>📸 foto laki" ngerumpi😍</p>
         <img src="kemah4.jpg" style="width:100%; border-radius:10px;">
