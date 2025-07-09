@@ -100,9 +100,9 @@
         <h2>Struktur Kelas IX-B</h2>
         <ul>
           <h3>Wali Kelas : akan hadir</h3>
-          <li>Ketua Kelas: Akan Hadir</li>
-          <li>Wakil Ketua: Akan Hadir</li>
-          <li>Sekretaris 1: Akan Hadir</li>
+          <h4>Ketua Kelas: Ahmad Putra Nurrohim</h4>
+          <h4>Wakil Ketua: Zaky Sofyan</h4>
+          <h4>Sekretaris 1: Akan Hadir</h4>
           <li>Sekretaris 2: Akan Hadir</li>
           <li>Bendahara 1: Akan Hadir</li>
           <li>Bendahara 2: Akan Hadir</li>
