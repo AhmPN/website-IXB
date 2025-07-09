@@ -100,12 +100,20 @@
         <h2>Struktur Kelas IX-B</h2>
         <ul>
           <h3>Wali Kelas : akan hadir</h3>
-          <h4>Ketua Kelas: Ahmad Putra Nurrohim</h4>
-          <h4>Wakil Ketua: Zaky Sofyan</h4>
-          <h4>Sekretaris 1: Akan Hadir</h4>
-          <li>Sekretaris 2: Akan Hadir</li>
-          <li>Bendahara 1: Akan Hadir</li>
-          <li>Bendahara 2: Akan Hadir</li>
+          <li>Ketua Kelas: Ahmad Putra Nurrohim</li>
+          <li>Wakil Ketua: Zaky Sofyan</li>
+          <li>Sekretaris 1: Amelia Nur Rahmadani</li>
+          <li>Sekretaris 2: Adelia Ainun Zakia</li>
+          <li>Bendahara 1: Devi Nur Maulidda</li>
+          <li>Bendahara 2: Dewi Audray Agdiningviar</li>
+          <li>Seksi Kerohanian 1: Nabila Azzahra</Li>
+          <li>Seksi Kerohanian 2: Dira Hadi Erwanto</li>
+          <li>Seksi Keamanan 1: Muhamad Azriel Ardianta</li>
+          <li>Seksi Keamanan 2: Yogik Aditiyono</li>
+          <li>Seksi Kebersihan 1: Dafi Idriansyah</li>
+          <li>Seksi Kebersihan 2: Muhamad Farras Ahsanul Huda</li>
+          <li>Seksi Kesehatan 1: Muhammad Rishad Tabatala Arsodiq</li>
+          <li>Seksi Kesehatan 2: Riyo Rahmadhani</li>
         </ul>
       `,
       anggota: `
