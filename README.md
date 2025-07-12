@@ -176,12 +176,12 @@
         <h2>Jadwal Pelajaran Kelas IX-B</h2>
         <table>
           <tr><th>Hari</th><th>Mata Pelajaran</th></tr>
-          <tr><td>Senin</td><td>Segera Hadir</td></tr>
-          <tr><td>Selasa</td><td>Segera Hadir</td></tr>
-          <tr><td>Rabu</td><td>Segera Hadir</td></tr>
-          <tr><td>Kamis</td><td>Segera Hadir</td></tr>
-          <tr><td>Jumat</td><td>Segera Hadir</td></tr>
-          <tr><td>Sabtu</td><td>P5,P5,P5</td></tr>
+          <tr><td>Senin</td><td>Bhs.Inggris, Pend.Pancasila, IPA</td></tr>
+          <tr><td>Selasa</td><td>IPS, Informatika, Bhs.Indonesia</td></tr>
+          <tr><td>Rabu</td><td>Pend.Agama, Matematika, Seni Budaya</td></tr>
+          <tr><td>Kamis</td><td>PJOK, Matematika, Mulok, IPA</td></tr>
+          <tr><td>Jumat</td><td>Bhs.Indonesia</td></tr>
+          <tr><td>Sabtu</td><td>P5</td></tr>
         </table>
       `,
       piket: `
