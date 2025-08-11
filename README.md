@@ -199,7 +199,7 @@
       pr: `
         <h2>Tugas / PR Terbaru</h2>
         <ul>
-          <h3>Tidak ada tugas</h3>
+          <h3>Informatika hal 30 kerjakan di lembaran>
         </ul>
       `,
       galeri: `
