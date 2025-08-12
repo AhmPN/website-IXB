@@ -197,9 +197,9 @@
         </table>
       `,
       pr: `
-        <h2>Tugas / PR Terbaru Senin,11 08 2025</h2>
+        <h2>Tugas / PR Terbaru Selasa,12 08 2025</h2>
         <ul>
-          <h3>Informatika hal 30 kerjakan di lembaran dikumpul selasa, 12 08 2025
+          <h3>Tidak Ada Tugas
         </ul>
       `,
       galeri: `
