@@ -197,7 +197,7 @@
         </table>
       `,
       pr: `
-        <h2>Tugas / PR Terbaru Selasa,12 08 2025</h2>
+        <h2>Tugas / PR Terbaru Rabu,13 08 2025</h2>
         <ul>
           <h3>Tidak Ada Tugas
         </ul>
