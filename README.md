@@ -88,7 +88,7 @@
 <footer>
   <p>Website Kelas IXB | Designed by: APutraN</p>
   <p>
-    <a href="https://www.instagram.com/ofc.songobhee9?igsh=MTFmeTdrazB1dXd5NA==</a> |
+    <a href="https://www.instagram.com/ofc.songobhee9?igsh=MTFmeTdrazB1dXd5NA="_blank">instragram</a>
     <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank">TikTok</a>
   </p>
 </footer>
