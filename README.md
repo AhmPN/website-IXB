@@ -88,8 +88,20 @@
 <footer>
   <p>Website Kelas IXB | Designed by: APutraN</p>
   <p>
-    <a href="https://www.instagram.com/ofc.songobhee9?igsh=MTFmeTdrazB1dXd5NA="target_blank">instragram</a>
-    <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1"target_blank">TikTok</a>
+    <!-- Tambahkan link Font Awesome di bagian <head> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<footer style="text-align: center; padding: 10px; background: #f4f4f4;">
+    <p>Website Kelas IXB | Designed by: APutraN</p>
+    <p>
+        <a href="https://www.instagram.com/ofc.songobhee9?igsh=MTFmeTdrazB1dXd5NA" target="_blank" style="margin: 0 10px; text-decoration: none; color: #E1306C;">
+            <i class="fab fa-instagram"></i> Instagram
+        </a>
+        <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank" style="margin: 0 10px; text-decoration: none; color: #000;">
+            <i class="fab fa-tiktok"></i> TikTok
+        </a>
+    </p>
+</footer>
   </p>
 </footer>
 
