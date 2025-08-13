@@ -202,9 +202,9 @@
         </table>
       `,
       pr: `
-        <h2>Tugas / PR Terbaru Rabu,13 08 2025</h2>
+        <h2>Tugas / PR Terbaru Kamis,14 08 2025</h2>
         <ul>
-          <h3>Tugas PR Matematika mencatat model MTK di kumpul 14, 08 2025
+          <h3>Tugas PR Matematika mencatat model MTK di kumpul Kamis,14 08 2025
         </ul>
       `,
       galeri: `
