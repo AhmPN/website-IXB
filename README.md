@@ -98,9 +98,6 @@
         </a>
     </p>
 </footer>
-  </p>
-</footer>
-
 <script>
   function showContent(menu) {
     const content = {
