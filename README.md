@@ -88,7 +88,7 @@
 <footer>
   <p>Website Kelas IXB | Designed by: APutraN</p>
   <p>
-    <a href="https://www.instagram.com/onebraderclass?igsh=dmIydWc1aG50aWdy" target="_blank">Instagram</a> |
+    <a href="https://www.instagram.com/ofc.songobhee9?igsh=MTFmeTdrazB1dXd5NA==</a> |
     <a href="https://www.tiktok.com/@asixxbee6?_t=ZS-8xULIQm8QXR&_r=1" target="_blank">TikTok</a>
   </p>
 </footer>
@@ -199,7 +199,7 @@
       pr: `
         <h2>Tugas / PR Terbaru Rabu,13 08 2025</h2>
         <ul>
-          <h3>Tidak Ada Tugas
+          <h3>Tugas PR Matematika mencatat model MTK di kumpul 14, 08 2025
         </ul>
       `,
       galeri: `
