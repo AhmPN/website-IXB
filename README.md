@@ -204,7 +204,7 @@
       pr: `
         <h2>Tugas / PR Terbaru Kamis,14 08 2025</h2>
         <ul>
-          <h3>Tugas PR Matematika mencatat model MTK di kumpul Kamis,14 08 2025
+          <h3>Tidak Ada Tugas
         </ul>
       `,
       galeri: `
