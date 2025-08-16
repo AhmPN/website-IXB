@@ -202,7 +202,7 @@
         </table>
       `,
       pr: `
-        <h2>Tugas / PR Terbaru Jumat,15 08 2025</h2>
+        <h2>Tugas / PR Terbaru Sabtu,16 08 2025</h2>
         <ul>
           <h3>Mohon Maaf Server Sedang Pembaharuan Sampai Selasa, 19 08 2025
         </ul>
