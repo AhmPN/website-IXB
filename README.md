@@ -202,9 +202,9 @@
         </table>
       `,
       pr: `
-        <h2>Tugas / PR Terbaru Selasa,19 08 2025</h2>
+        <h2>Tugas / PR Terbaru Rabu,20 08 2025</h2>
         <ul>
-          <h3>Mohon Maaf Server Sedang Pembaharuan Sampai Selasa, 19 08 2025
+          <h3>Tidak Ada Tugas
         </ul>
       `,
       galeri: `
