@@ -209,7 +209,7 @@
       `,
       galeri: `
         <h2>Galeri Foto & Kenangan</h2>
-        img src="fotoc2.jpg" style="width:100%; border-radius:10px;">
+        <img src="fotoc2.jpg" style="width:100%; border-radius:10px;">
         <p>📷 foto bersama 😘
         <img src="fotoc1.jpg" style="width:100%; border-radius:10px;">
         <p>📷 foto bersama 😘
