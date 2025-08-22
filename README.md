@@ -1,5 +1,5 @@
 
-<html lang="id">
+</html><html lang="id">
 <head>
   <meta charset="UTF-8">
   <title>Website Kelas IX-B</title>
@@ -63,13 +63,54 @@
   </style>
 </head>
 <body>
-
 <header>
   <h1>SMPN 1 PANGKALAN LADA</h1>
   <h2>Website Kelas IXB</h2>
+   <!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Tanggal & Waktu</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #fdfcfb;
+      margin-top: 50px;
+    }
+    #waktu {
+      font-size: 15px;
+      font-weight: bold;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div id="waktu"></div>
+  <script>
+    function updateWaktu() {
+      const hariNama = ["Minggu","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu"];
+      const bulanNama = ["Januari","Februari","Maret","April","Mei","Juni",
+                         "Juli","Agustus","September","Oktober","November","Desember"];
+      let sekarang = new Date();
+      let hari = hariNama[sekarang.getDay()];
+      let tanggal = sekarang.getDate();
+      let bulan = bulanNama[sekarang.getMonth()];
+      let tahun = sekarang.getFullYear();
+      let jam = String(sekarang.getHours()).padStart(2, '0');
+      let menit = String(sekarang.getMinutes()).padStart(2, '0');
+      let detik = String(sekarang.getSeconds()).padStart(2, '0');
+      document.getElementById("waktu").innerHTML =
+        `${hari}, ${tanggal} ${bulan} ${tahun} | ${jam}:${menit}:${detik}`;
+    }
+    setInterval(updateWaktu, 1000);
+    updateWaktu();
+  </script>
+</body>
+</html>
 </header>
-
 <nav>
+  <button class="menu-btn" onclick="showContent('pesan')">Tulis Pesan</button>
   <button class="menu-btn" onclick="showContent('struktur')">Struktur Kelas</button>
   <button class="menu-btn" onclick="showContent('anggota')">Anggota Siswa</button>
   <button class="menu-btn" onclick="showContent('tata')">Tata Tertib Kelas</button>
@@ -79,12 +120,10 @@
   <button class="menu-btn" onclick="showContent('pr')">Tugas / PR</button>
   <button class="menu-btn" onclick="showContent('galeri')">Galeri Foto</button>
 </nav>
-
 <div id="content">
   <h2>Selamat datang di Website Kelas IX-B!</h2>
   <p>Klik di atas untuk melihat informasi penting dan seru seputar kelas kita 😊</p>
 </div>
-
 <footer>
   <p>Website Kelas IXB | Designed by: APutraN</p>
   <p>
@@ -101,6 +140,30 @@
 <script>
   function showContent(menu) {
     const content = {
+      pesan: `
+        <div id="content">
+  <section id="pengaduan">
+  <h2>Tulis Pesan Untuk Kelas IX-B</h2>
+  <p>Silakan isi form di bawah untuk menyampaikan pesan. Klik 2x untuk mengirim pesan.</p>
+  <form action="https://formsubmit.co/ahmadputra.nur31@GMAIL.COM" method="POST"
+        style="max-width:450px; margin:auto; background:#f9f9f9; padding:20px; border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">    
+    <label>Nama:</label><br>
+    <input type="text" name="nama" required 
+           style="width:100%; padding:10px; margin:8px 0; border-radius:10px; border:1px solid #ccc;"><br>   
+    <label>Tulis Pesan:</label><br>
+    <textarea name="pesan" required 
+              style="width:100%; padding:10px; margin:8px 0; border-radius:10px; border:1px solid #ccc;" rows="4"></textarea><br>   
+    <!-- Setting tambahan -->
+    <input type="hidden" name="_captcha" value="false"> <!-- biar gak ada captcha -->
+    <input type="hidden" name="_template" value="table"> <!-- email tampil lebih rapi -->
+    <input type="hidden" name="_subject" value="Pengaduan Baru dari Website Kelas IX-B"> <!-- judul email -->    
+    <button type="submit" 
+            style="padding:12px 20px; background:#2196f3; color:white; border:none; border-radius:10px; font-weight:bold; cursor:pointer;">
+      Kirim Pesan 📧
+    </button>
+  </form>
+</section>
+      `,
       struktur: `
         <h2>Struktur Kelas IX-B</h2>
         <ul>
@@ -201,11 +264,32 @@
           <tr><td>Sabtu</td><td>Via, Choliv, Adinda, Edo, Yogik</td></tr>
         </table>
       `,
-      pr: `
-        <h2>Tugas / PR Terbaru Jumat,22 08 2025</h2>
+      pr: `     
+        <h1>Tugas / PR Terbaru Kamis,21 08 2025</h1>
         <ul>
-          <h3>Tidak Ada Tugas
+          <h2>Tidak Ada Tugas
         </ul>
+        <div id="content">
+  <section id="pengaduan">
+  <h4>Tulis Pesan Untuk Menanyakan Tugas Jika Belum Mengerti</h4>
+  <form action="https://formsubmit.co/ahmadputra.nur31@GMAIL.COM" method="POST"
+        style="max-width:450px; margin:auto; background:#f9f9f9; padding:20px; border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">    
+    <label>Nama:</label><br>
+    <input type="text" name="nama" required 
+           style="width:100%; padding:10px; margin:8px 0; border-radius:10px; border:1px solid #ccc;"><br>    
+    <label>Tulis Pesan:</label><br>
+    <textarea name="pesan" required 
+              style="width:100%; padding:10px; margin:8px 0; border-radius:10px; border:1px solid #ccc;" rows="4"></textarea><br>    
+    <!-- Setting tambahan -->
+    <input type="hidden" name="_captcha" value="false"> <!-- biar gak ada captcha -->
+    <input type="hidden" name="_template" value="table"> <!-- email tampil lebih rapi -->
+    <input type="hidden" name="_subject" value="Pengaduan Baru dari Website Kelas IX-B"> <!-- judul email -->    
+    <button type="submit" 
+            style="padding:12px 20px; background:#2196f3; color:white; border:none; border-radius:10px; font-weight:bold; cursor:pointer;">
+      Kirim Pesan 📧
+    </button>
+  </form>
+</section>
       `,
       galeri: `
         <h2>Galeri Foto & Kenangan</h2>
@@ -234,14 +318,11 @@
         <img src="tarian1.jpg" style="width:100%; border-radius:10px;">
         <p>📸 fotbar setelah tampil menari 😍</p>
         <img src="ibul.jpg" style="width:100%; border-radius:10px;">
-        <p>📸 foto bersama Ibu Laila 😍😍</p>
-        
+        <p>📸 foto bersama Ibu Laila 😍😍</p>        
       `
     };
-
     document.getElementById("content").innerHTML = content[menu] || "<p>Menu belum tersedia.</p>";
   }
 </script>
-
 </body>
 </html>
