@@ -1,5 +1,4 @@
 
-</html><html lang="id">
 <head>
   <meta charset="UTF-8">
   <title>Website Kelas IX-B</title>
@@ -66,8 +65,7 @@
 <header>
   <h1>SMPN 1 PANGKALAN LADA</h1>
   <h2>Website Kelas IXB</h2>
-   <!DOCTYPE html>
-<html lang="id">
+  <html lang="id">
 <head>
   <meta charset="UTF-8">
   <title>Tanggal & Waktu</title>
