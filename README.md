@@ -263,9 +263,9 @@
         </table>
       `,
       pr: `     
-        <h1>Tugas / PR Terbaru Minggu,24 08 2025</h1>
+        <h1>Tugas / PR Terbaru Senin,25 08 2025</h1>
         <ul>
-          <h2>Tidak Ada Tugas
+          <h2>Admin sedang sibuk, nanti yaa tugasnya
         </ul>
         <div id="content">
   <section id="pengaduan">
