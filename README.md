@@ -378,7 +378,7 @@
     <tr class="laki"><td>9</td><td>Dafi Idriansyah</td></tr>
     <tr class="perempuan"><td>10</td><td>Devi Nur Maulidda</td></tr>
         <tr class="perempuan"><td>11</td><td>Dewi Audray Agdiningviar</td></tr>
-    <tr class="laki"><td>11</td><td>Dimas Suryawirawan</td></tr>
+    <tr class="laki"><td>11</td><td>Dimas Surya Irawan</td></tr>
     <tr class="laki"><td>12</td><td>Dira Hadi Erwanto</td></tr>
     <tr class="perempuan"><td>13</td><td>Dwi Irji Febiana</td></tr>
     <tr class="laki"><td>14</td><td>Edo Hariyadi</td></tr>
@@ -388,7 +388,7 @@
     <tr class="laki"><td>18</td><td>Micko Maulana</td></tr>
     <tr class="laki"><td>19</td><td>Muhamad Azriel Ardianta</td></tr>
     <tr class="laki"><td>20</td><td>Muhamad Farras Ahsanul Huda</td></tr>
-    <tr class="laki"><td>21</td><td>Muhammad Arjuna Mu’arif Salam</td></tr>
+    <tr class="laki"><td>21</td><td>Muhammad Arjuna Muarif Salam</td></tr>
     <tr class="laki"><td>22</td><td>Muhammad Fahmi Ferdiansyah</td></tr>
     <tr class="perempuan"><td>23</td><td>Mutiara Dwi Febrianti</td></tr>
     <tr class="perempuan"><td>24</td><td>Nabila Azzahra</td></tr>
