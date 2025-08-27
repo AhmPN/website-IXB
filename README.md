@@ -341,7 +341,7 @@
     }
     table {
       border-collapse: collapse;
-      width:100%;
+      width:110%;
     }
     th, td {
       border: 1px solid #ccc;
