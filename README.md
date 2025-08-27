@@ -337,7 +337,7 @@
     body {
       font-family: Arial, sans-serif;
       background:#fdfdfd;
-      padding:20px;
+      padding:1px;
     }
     table {
       border-collapse: collapse;
