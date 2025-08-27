@@ -330,20 +330,18 @@
     document.getElementById('printBtn').addEventListener('click', () => window.print());
       `,
       anggota: `
-         <!DOCTYPE html>
-<html lang="id">
-<head>
+       <head>
   <meta charset="UTF-8">
   <title>Daftar Siswa</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: #fdfdfd;
-      padding: 20px;
+      background:#fdfdfd;
+      padding:20px;
     }
     table {
       border-collapse: collapse;
-      width: 100%;
+      width:100%;
     }
     th, td {
       border: 1px solid #ccc;
@@ -351,8 +349,8 @@
       text-align: left;
     }
     th {
-      background: #dfa86b;
-      color: #fff;
+      background:#dfa86b;
+      color:#fff;
     }
     .laki {
       background-color: #cce5ff; /* biru muda */
