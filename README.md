@@ -1,4 +1,4 @@
-
+ 
 <head>
   <meta charset="UTF-8">
   <title>Website Kelas IX-B</title>
@@ -163,61 +163,247 @@
 </section>
       `,
       struktur: `
-        <h2>Struktur Kelas IX-B</h2>
+
+  <style>
+    :root{
+      --bg1: #a0522d;
+      --bg2: #dfa96;
+      --card: #ffffff;
+      --line: #a0522d;
+      --text: #2b2b2b;
+      --muted: #555;
+      --accent: #a0522d;
+      --accent-2:#dfa96b;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
+      background: linear-gradient(160deg, var(--bg1), var(--bg2));
+      color:var(--text);
+    }
+    .page{
+      max-width:1200px; margin-inline:auto; padding:0px; 
+    }
+    header{
+      display:flex; align-items:center; justify-content:space-between; gap:0px; flex-wrap:wrap;
+    }
+    h1{font-size:clamp(1.2rem, 2vw + 0.8rem, 2rem); margin:0; letter-spacing:0.5px; color:var(--card)}
+    .sub{color:var(--card); font-size:0.95rem}
+    .controls{display:flex; gap:8px; flex-wrap:wrap}
+    .btn{
+      appearance:none; border:1px solid var(--line); background:#fff3;
+      color:var(--card); padding:10px 14px; border-radius:14px; cursor:pointer; font-weight:600; 
+      box-shadow:0 2px 6px rgba(0,0,0,0.2);
+    }
+    .btn:hover{background:#fff6}
+    .btn:active{transform:translateY(1px)}.tree-wrapper{
+  border:1px solid var(--line); box-shadow:0 10px 40px rgba(0,0,0,0.2) inset;
+  overflow:auto;
+}
+.tree{ display:inline-blpadding:24px 18px; }
+.tree ul{ padding-top:20px; position:relative; padding-left:0; text-align:center }
+.tree li{ display:inline-block; vertical-align:top; list-style:none; position:relative; padding:20px 14px 0 14px; }
+.tree li::before, .tree li::after{
+  content:""; position:absolute; top:0; border-top:2px solid var(--line); width:50%; height:20px;
+}
+.tree li::before{ right:50%; }
+.tree li::after{ left:50%; border-left:2px solid var(--line); }
+.tree li:only-child::before, .tree li:only-child::after{ display:none; }
+.tree li:only-child{ padding-top:0; }
+.tree li:first-child::before{ border:none; }
+.tree li:last-child::after{ border:none; }
+.tree ul ul::before{
+  content:""; position:absolute; top::2px solid var(--line); width:0; height:20px;
+}
+.node{
+  background:var(--card);
+  border:1px solid var(--line); color:var(--text); min-width:180px; max-width:240px;
+  padding:12px 14px; border-radius:16px; text-align:center; display:grid; gap:6px;
+  box-shadow:0 6px 18px rgba(0,0,0,0.2);
+}
+.node .role{ font-size:0.75rem; letter-spacing:0.3px; color:var(--accent); text-transform:uppercase; font-weight:800 }
+.node .name{ font-size:1rem; font-weight:800 }
+.node .meta{ font-size:0.82rem; color:var(--muted) }
+.node.primary{ border-color:var(--accent); background:#fff; }
+
+@media (max-width:900px){
+  .node{ min-width:160px }
+  .tree li{ padding:18px 10px 0 }
+}
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div>
+        <h1>Struktur Kelas IX-B </h1>
+        <div class="sub">Tahun Pelajaran 2025/2026</div>
+      </div>
+  <div class="tree">
+    <ul>
+      <li>
+        <div class="node primary">
+          <div class="role">Kelas</div>
+          <div class="name">IX‑B</div>
+        </div>
         <ul>
-          <h3>Wali Kelas : Musringatun,S.Pd.I.</h3>
-          <li>Ketua Kelas: Ahmad Putra Nurrohim</li>
-          <li>Wakil Ketua: Zaky Sofyan</li>
-          <li>Sekretaris 1: Amelia Nur R</li>
-          <li>Sekretaris 2: Adelia Ainun Z</li>
-          <li>Bendahara 1: Devi Nur M</li>
-          <li>Bendahara 2: Dewi Audray A</li>
-          <li>Seksi Kerohanian 1: Nabila</Li>
-          <li>Seksi Kerohanian 2: Dira</li>
-          <li>Seksi Keamanan 1: Azriel</li>
-          <li>Seksi Keamanan 2: Yogik</li>
-          <li>Seksi Kebersihan 1: Dafi</li>
-          <li>Seksi Kebersihan 2: Farras</li>
-          <li>Seksi Kesehatan 1: Rishad</li>
-          <li>Seksi Kesehatan 2: Riyo</li>
+          <li>
+            <div class="node">
+              <div class="role">Wali Kelas</div>
+              <div class="name">Musringatun,S.Pd.I</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Ketua Kelas</div>
+              <div class="name">Ahmad Putra Nurrohim</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Wakil Ketua</div>
+              <div class="name">Zaky Sofyan</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Sekretaris 1</div>
+              <div class="name">Amelia Nur Rahmadani</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Sekretaris 2</div>
+              <div class="name">Adelia Ainun Zakia</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Bendahara 1</div>
+              <div class="name">Dewi Audray Agdiningviar</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Bendahara 2</div>
+              <div class="name">Devi Nur Maulidda</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Seksi Kerohanian</div>
+              <div class="name">1. Nabila Azzahra<br>2. Dira Hadi Erwanto</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Seksi Kesehatan</div>
+              <div class="name">1. Muhammad Rishad T.A<br>2. Riyo Ramadhani</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Seksi Kebersihan</div>
+              <div class="name">1. Muhamad Farras A.H<br>2. Dafi Idriansyah</div>
+            </div>
+          </li>
+          <li>
+            <div class="node">
+              <div class="role">Seksi Keamanan</div>
+              <div class="name">1. Muhamad Azriel Ardianta<br>2. Yogik Aditiyono</div>
+            </div>
+          </li>
         </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+  </div>  <script>
+    const allDetails = () => Array.from(document.querySelectorAll('details.group'));
+    document.getElementById('expandAll').addEventListener('click', () => {
+      allDetails().forEach(d => d.open = true);
+    });
+    document.getElementById('collapseAll').addEventListener('click', () => {
+      allDetails().forEach(d => d.open = false);
+    });
+    document.getElementById('printBtn').addEventListener('click', () => window.print());
       `,
       anggota: `
-        <h2>Daftar Anggota Siswa Kelas IX-B (32 Siswa)</h2>
-        <ol>
-          <li>Adelia Ainun Zakia</li>
-          <li>Adinda Selmi Yusfita</li>
-          <li>Ahmad Putra Nurrohim</li>
-          <li>Alisia Jastin</li>
-          <li>Amelia Nur Rahmadani</li>
-          <li>Anita Sulfania</li>
-          <li>Cahya Nengrum Aulia Ulfah</li>
-          <li>Choliv Fuadiya</li>
-          <li>Dafi Idriansyah</li>
-          <li>Devi Nur Maulidda</li>
-          <li>Dewi Audray Agdiningviar</li>
-          <li>Dimas Surya Irawan</li>
-          <li>Dira Hadi Erwanto</li>
-          <li>Dwi Irji Febiana</li>
-          <li>Edo Hariyadi</li>
-          <li>Erwin Alfiromdoni</li>
-          <li>Imana Pungky Mavano</li>
-          <li>Micko Maulana</li>
-          <li>Muhamad Azriel Ardianta</li>
-          <li>Muhamad Fahmy Ferdiansyah</li>
-          <li>Muhamad Farras Ahsanul Huda</li>
-          <li>Muhammad Arjuna Muarif Salam</li>
-          <li>Muhammad Rishad Tabatala Arsodiq</li>
-          <li>Mutiara Dwi Febrianti</li>
-          <li>Nabila Azzahra</li>
-          <li>Nur Sabrina</li>
-          <li>Putri Nur Ainiyyah Zahraa</li>
-          <li>Riyo Ramadhani</li>
-          <li>Silda Simatus Zahro</li>
-          <li>Sintia Nabila</li>
-          <li>Yogik Aditiyono</li>
-          <li>Zaky Sofyan</li>
-        </ol>
+         <!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Daftar Siswa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fdfdfd;
+      padding: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px 12px;
+      text-align: left;
+    }
+    th {
+      background: #dfa86b;
+      color: #fff;
+    }
+    .laki {
+      background-color: #cce5ff; /* biru muda */
+    }
+    .perempuan {
+      background-color: #ffd6e7; /* pink muda */
+    }
+  </style>
+</head>
+<body>
+  <h2>Daftar Siswa Kelas IX-B</h2>
+  <table>
+    <tr>
+      <th>No</th>
+      <th>Nama</th>
+    </tr>
+    <tr class="perempuan"><td>1</td><td>Adelia Ainun Zakia</td></tr>
+    <tr class="perempuan"><td>2</td><td>Adinda Selmi Yusfita</td></tr>
+    <tr class="laki"><td>3</td><td>Ahmad Putra Nurrohim</td></tr>
+    <tr class="perempuan"><td>4</td><td>Alisia Jastin</td></tr>
+    <tr class="perempuan"><td>5</td><td>Amelia Nur Rahmadhani</td></tr>
+    <tr class="perempuan"><td>6</td><td>Anita Sulfania</td></tr>
+    <tr class="perempuan"><td>7</td><td>Cahya Nengrum Aulia Ulfah</td></tr>
+    <tr class="perempuan"><td>8</td><td>Choliv Fuadiya</td></tr>
+    <tr class="laki"><td>9</td><td>Dafi Idriansyah</td></tr>
+    <tr class="perempuan"><td>10</td><td>Devi Nur Maulidda</td></tr>
+        <tr class="perempuan"><td>11</td><td>Dewi Audray Agdiningviar</td></tr>
+    <tr class="laki"><td>11</td><td>Dimas Suryawirawan</td></tr>
+    <tr class="laki"><td>12</td><td>Dira Hadi Erwanto</td></tr>
+    <tr class="perempuan"><td>13</td><td>Dwi Irji Febiana</td></tr>
+    <tr class="laki"><td>14</td><td>Edo Hariyadi</td></tr>
+    <tr class="laki"><td>15</td><td>Erwin Alvi Romdoni</td></tr>
+    <tr class="laki"><td>16</td><td>Imana Pungky Mavavo</td></tr>
+    <tr class="laki"><td>17</td><td>M. Rishad Tabatala Arshodiq</td></tr>
+    <tr class="laki"><td>18</td><td>Micko Maulana</td></tr>
+    <tr class="laki"><td>19</td><td>Muhamad Azriel Ardianta</td></tr>
+    <tr class="laki"><td>20</td><td>Muhamad Farras Ahsanul Huda</td></tr>
+    <tr class="laki"><td>21</td><td>Muhammad Arjuna Mu’arif Salam</td></tr>
+    <tr class="laki"><td>22</td><td>Muhammad Fahmi Ferdiansyah</td></tr>
+    <tr class="perempuan"><td>23</td><td>Mutiara Dwi Febrianti</td></tr>
+    <tr class="perempuan"><td>24</td><td>Nabila Azzahra</td></tr>
+    <tr class="perempuan"><td>25</td><td>Nur Sabrina</td></tr>
+    <tr class="perempuan"><td>26</td><td>Putri Nur Ainiyyah Zahraa</td></tr>
+    <tr class="laki"><td>27</td><td>Riyo Ramadhani</td></tr>
+    <tr class="perempuan"><td>28</td><td>Silda Rimatus Zahro</td></tr>
+    <tr class="perempuan"><td>29</td><td>Sintia Nabila</td></tr>
+    <tr class="laki"><td>30</td><td>Yogik Aditiyono</td></tr>
+    <tr class="laki"><td>31</td><td>Zaky Sofyan</td></tr>
+  </table>
+</body>
+</html>
       `,
       tata: `
         <h2>Tata Tertib Kelas</h2>
@@ -262,8 +448,8 @@
           <tr><td>Sabtu</td><td>Via, Choliv, Adinda, Edo, Yogik</td></tr>
         </table>
       `,
-      pr: `     
-        <h1>Tugas / PR Terbaru Rabu 27 08 2025</h1>
+      pr: `
+        <h1>Tugas / PR Terbaru Rabu,27 08 2025</h1>
         <ul>
           <h2>Admin sedang sibuk, nanti yaa tugasnya
         </ul>
@@ -291,6 +477,11 @@
       `,
       galeri: `
         <h2>Galeri Foto & Kenangan</h2>
+           <img src="hadiah1.jpg" style="width:100%; border-radius:10px;">
+        <p>📷 foto bersama 😘
+        <img src="hadiah2.jpg" style="width:100%; border-radius:10px;">
+        <p>📷 foto bersama 😘
+        <img src="fotoulangan.jpg" style="width:100%; border-radius:10px;">
         <img src="fotoc2.jpg" style="width:100%; border-radius:10px;">
         <p>📷 foto bersama 😘
         <img src="fotoc1.jpg" style="width:100%; border-radius:10px;">
