@@ -447,7 +447,7 @@
         </table>
       `,
       pr: `
-        <h1>Tugas / PR Terbaru Rabu,27 08 2025</h1>
+        <h1>Tugas / PR Terbaru kamis,28 08 2025</h1>
         <ul>
           <h2>Admin sedang sibuk, nanti yaa tugasnya
         </ul>
