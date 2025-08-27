@@ -479,7 +479,6 @@
         <p>📷 foto bersama 😘
         <img src="hadiah2.jpg" style="width:100%; border-radius:10px;">
         <p>📷 foto bersama 😘
-        <img src="fotoulangan.jpg" style="width:100%; border-radius:10px;">
         <img src="fotoc2.jpg" style="width:100%; border-radius:10px;">
         <p>📷 foto bersama 😘
         <img src="fotoc1.jpg" style="width:100%; border-radius:10px;">
