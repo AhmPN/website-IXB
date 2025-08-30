@@ -447,9 +447,10 @@
         </table>
       `,
       pr: `
-        <h1>Tugas / PR Terbaru Sabtu,30 08 2025</h1>
+        <h1>Tugas / PR Terbaru Minggu,31 08 2025</h1>
         <ul>
-          <h2>Admin sedang sibuk, nanti yaa tugasnya
+          <h2>IPA = Membuat Media Belajar Panca Indera
+   B. Inggris = LKS Hal 40 Task 6 & Task 7
         </ul>
         <div id="content">
   <section id="pengaduan">
