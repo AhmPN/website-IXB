@@ -449,7 +449,7 @@
       pr: `
         <h1>Tugas / PR Terbaru Senin,1 09 2025</h1>
         <ul>
-          <h2>IPA = B.indo LKS hal 10 tugas 4
+          <h2>B.indo LKS hal 10 tugas 4 &
    B.Inggris Hal 106 dan 108</ul>
         <div id="content">
   <section id="pengaduan">
