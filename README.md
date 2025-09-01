@@ -447,7 +447,7 @@
         </table>
       `,
       pr: `
-        <h1>Tugas / PR Terbaru Minggu,31 08 2025</h1>
+        <h1>Tugas / PR Terbaru Senin,1 09 2025</h1>
         <ul>
           <h2>IPA = Membuat Media Belajar Panca Indera
    B. Inggris = LKS Hal 40 Task 6 & Task 7
