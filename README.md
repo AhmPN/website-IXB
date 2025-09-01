@@ -449,9 +449,8 @@
       pr: `
         <h1>Tugas / PR Terbaru Senin,1 09 2025</h1>
         <ul>
-          <h2>IPA = Membuat Media Belajar Panca Indera
-   B. Inggris = LKS Hal 40 Task 6 & Task 7
-        </ul>
+          <h2>IPA = B.indo LKS hal 10 tugas 4
+   B.Inggris Hal 106 dan 108</ul>
         <div id="content">
   <section id="pengaduan">
   <h4>Tulis Pesan Untuk Menanyakan Tugas Jika Belum Mengerti</h4>
