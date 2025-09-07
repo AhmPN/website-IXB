@@ -447,7 +447,7 @@
         </table>
       `,
       pr: `
-        <h1>Tugas / PR Terbaru Minggu,7 09 2025</h1>
+        <h1>Tugas / PR Terbaru Senin,8 09 2025</h1>
         <ul>
           <h2>Pend.Pancssila LKS hal 16-18</ul>
         <div id="content">
