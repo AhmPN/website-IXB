@@ -449,7 +449,7 @@
       pr: `
         <h1>Tugas / PR Terbaru Selasa,9 09 2025</h1>
         <ul>
-          <h2>Nanti Tugasnya</ul>
+          <h2>SBK: Membuat Jurnal Visual</ul>
         <div id="content">
   <section id="pengaduan">
   <h4>Tulis Pesan Untuk Menanyakan Tugas Jika Belum Mengerti</h4>
