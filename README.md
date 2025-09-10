@@ -447,7 +447,7 @@
         </table>
       `,
       pr: `
-        <h1>Tugas / PR Terbaru Rabu,10 09 2025</h1>
+        <h1>Tugas / PR Terbaru Kamis,11 09 2025</h1>
         <ul>
           <h2>MTK : Menggambar bangun ruang</ul>
         <div id="content">
