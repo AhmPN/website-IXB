@@ -449,7 +449,7 @@
       pr: `
         <h1>Tugas / PR Terbaru Senin,15 09 2025</h1>
         <ul>
-          <h2>MTK : Tidak ada tugas</ul>
+          <h2>Loading...>
         <div id="content">
   <section id="pengaduan">
   <h4>Tulis Pesan Untuk Menanyakan Tugas Jika Belum Mengerti</h4>
