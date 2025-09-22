@@ -447,7 +447,7 @@
         </table>
       `,
       pr: `
-        <h1>Tugas / PR Terbaru Senin,22 09 2025</h1>
+        <h1>Tugas / PR Terbaru Selasa,23 09 2025</h1>
         <ul>
           <h2>Loading...>
         <div id="content">
