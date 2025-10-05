@@ -440,14 +440,14 @@
           <tr><th>Hari</th><th>Nama Petugas</th></tr>
           <tr><td>Senin</td><td>Nabila, Silda, Adelia, Micko, Fahmi, Rishad</td></tr>
           <tr><td>Selasa</td><td>Sabrina, Sintia, Cahya, Putra, Dafi</td></tr>
-          <tr><td>Rabu</td><td>Anitaaa, Dwi Irji, Mutiara, Azriel, Farras</td></tr>
+          <tr><td>Rabu</d><td>Anitaaa, Dwi Irji, Mutiara, Azriel, Farras</td></tr>
           <tr><td>Kamis</td><td>Jastin, Zahraa, Dira, Pungky, Erwin</td></tr>
           <tr><td>Jumat</td><td>Devi, Amelia, Arjuna, Dimas, Riyo, Zaky</td></tr>
           <tr><td>Sabtu</td><td>Via, Choliv, Adinda, Edo, Yogik</td></tr>
         </table>
       `,
       pr: `
-        <h1>Tugas / PR Terbaru Jumat,03 10 2025</h1>
+        <h1>Tugas / PR Terbaru Senin,06 10 2025</h1>
         <ul>
           <h2>Loading...>
         <div id="content">
